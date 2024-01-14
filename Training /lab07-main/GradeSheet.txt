@@ -1,0 +1,43 @@
+GRADE SHEET FOR CS134 LAB 7 ("Recursion!"):
+
+    Warm-up Task: sum_digits
+          * passes all doctests and produces correct sum
+          * has an explicit base case and correctly handles it 
+          * correctly handles recursive call
+          * the implementation is fully recursive; no loops are found
+          * int not converted to str
+          * clean and interpretable code with comments
+    Task 1: bedtime
+          * passes all doctests
+          * has an explicit base case and correctly handles it
+          * correct calls to first_sentence and last_sentence
+          * the implementation is fully recursive; no loops are found
+          * clean and interpretable code with comments
+          * one additional doctest is provided
+    Task 2: squares
+          * correctly returns the number of squares
+          * draw_nested_squares(400, 20, PURPLE, WHITE) generates correct figure
+          * draw_nested_squares uses only the allowed turtle commands
+          * draw_nested_squares uses color, other_color rather than WHITE, PURPLE
+          * the implementation is fully recursive; no loops
+          * clean and interpretable code with comments
+    Task 3: quilt
+          * correctly returns the number of squares
+          * draw_quilt(512, 128, PURPLE, GOLD) generates correct figure
+          * draw_quilt uses only the allowed turtle commands
+          * draw_quilt uses color, other_color rather than GOLD, PURPLE
+          * the implementation is fully recursive; no loops are found
+          * clean and interpretable code with comments
+    Task 4: shrub
+          * correctly returns the total branch length
+          * draw_shrub(100, 15, 0.8, 10) generates correct figure
+          * draw_shrub uses only the allowed turtle commands
+          * the implementation is fully recursive; no loops are found
+          * clean and interpretable code with comments
+
+
+Grade:
+
+
+Comments from Graders:
+

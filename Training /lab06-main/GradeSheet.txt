@@ -1,0 +1,26 @@
+GRADE SHEET FOR CS134 LAB 6 ("What's In A Name"):
+     
+Requirements of this lab:
+   Part 1: Analyzing Data
+      * Correctly parses CSV file and generates dictionary of dictionaries
+      * Code makes good use of variable names, and is clear and readable
+      * Comments are appropriately used to explain hard-to-follow logic
+      * Function name_frequency has at least two helpful new doctests using example_year_db2()
+      * Passes our unit tests
+   Part 2: Plotting Data
+      * Correctly plots data involving the popularity of names over time      
+      * Code makes good use of variable names, and is clear and readable
+      * Comments are appropriately used to explain hard-to-follow logic
+      * Passes our unit tests and generates correct graphs
+   Part 3: Letter Frequencies
+      * Correctly plots data involving the popularity of letters in names over time      
+      * Code makes good use of variable names, and is clear and readable
+      * Function letter_frequency has at least two helpful new doctests using example_year_db2()
+      * Comments are appropriately used to explain hard-to-follow logic
+      * Passes our unit tests and generates correct graphs
+   
+
+Grade:   
+
+
+Comments from Graders: 

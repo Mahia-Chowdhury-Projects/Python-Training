@@ -1,0 +1,16 @@
+Tell us about yourself:
+
+Hello! My name is Mahia and I am from Queens, New York (the best city). Because of the amazing, unbelievable diversity in Queens, there are so 
+many amazing food spots. I guess if I had to choose my favorite spot, it would definitely be 
+Blaze 718, located in Jamaica, Queens, New York which serves amazing Jamaican food. 
+Trust me, order the oxtail...you will not regret it! And for any vegans/vegetarians, you have to get their collard greens!
+I am a computer science major, and I hope to develop my knowledge in the field a lot more as I continue to be at Williams. In my free time, I enjoy crocheting, dancing, 
+and reading true crime stories. 
+
+Provide your answers to the scavenger hunt here:
+1. the name of a group of vultures in flight: __kettle___
+2. the fifth-smallest biological family in the Carnivora: __hyena___
+3. the name of a Portland-based personal injury law firm that protects the injured from injustice: ___Portland personal injury attorneys: Get More Money__
+4. the number of lines in the file hyena.txt: __19___
+5. the number of words in the file coyote.txt: __172___
+6. the name of the Avengers star who briefly attended Santa Monica High School: ___Robert Downey Jr.__
